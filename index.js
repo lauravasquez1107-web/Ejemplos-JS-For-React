@@ -244,3 +244,5 @@
 // console.log("linea 2");
 
 //React es una biblioteca de JavaScript de código abierto utilizada para construir interfaces de usuario. Utiliza características modernas de JavaScript y extiende su sintaxis con algo llamado JSX para permitir a los desarrolladores escribir código similar a HTML dentro de JavaScript!
+
+//Whether you work on your own or with thousands of other developers, using React feels the same. It is designed to let you seamlessly combine components written by independent people, teams, and organizations.
