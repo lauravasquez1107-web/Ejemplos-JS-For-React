@@ -242,3 +242,6 @@
 
 // loadData()
 // console.log("linea 2");
+function saludar() {
+    alert("Hola, estás aprendiendo JavaScript 🚀");
+}
